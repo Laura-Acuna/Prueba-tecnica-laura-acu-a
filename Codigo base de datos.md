@@ -1,4 +1,4 @@
-Codigo de base de datos
+Codigo de base de datos, en caso de ser necesario su uso
 CREATE DATABASE ProcesamientoPDF;
 
 CREATE TABLE DocKey (
